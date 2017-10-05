@@ -1,0 +1,11 @@
+{
+    "name": "root/lerko-sql-parse",
+    "description": "sql ast tree parse",
+    "authors": [
+        {
+            "name": "CYQ19931115",
+            "email": "614325722@qq.com"
+        }
+    ],
+    "require": {}
+}
